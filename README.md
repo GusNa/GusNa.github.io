@@ -1,2 +1,2 @@
 # gusna.github.io
-My personal website, currently under construction.
+My developer portfolio website, under construction.
